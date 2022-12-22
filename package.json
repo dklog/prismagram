@@ -20,7 +20,7 @@
     "dotenv": "^6.2.0",
     "graphql-tools": "^4.0.4",
     "graphql-yoga": "^1.18.3",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "logger": "^0.0.1",
     "merge-graphql-schemas": "^1.5.8",
     "morgan": "^1.9.1",
